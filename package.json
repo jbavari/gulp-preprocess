@@ -37,7 +37,20 @@
   },
   "keywords": [
     "gulpplugin",
-    "gulp-plugin"
+    "gulp-plugin",
+    "preprocessor",
+    "html",
+    "javascript",
+    "coffeescript",
+    "debug",
+    "environment",
+    "ENV",
+    "conditional",
+    "include",
+    "exclude",
+    "ifdef",
+    "ifndef",
+    "echo"
   ],
   "license": "MIT"
 }
