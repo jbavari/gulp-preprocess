@@ -1,7 +1,7 @@
 {
   "name": "gulp-preprocess",
   "description": "Gulp plugin to preprocess HTML, JavaScript, and other files base on custom context or environment configuration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://github.com/jas/gulp-preprocess",
   "repository": {
     "type": "git",
