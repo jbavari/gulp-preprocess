@@ -10,10 +10,10 @@
   "author": "Jason Sandmeyer",
   "main": "./index.js",
   "dependencies": {
-    "preprocess": "~2.0.0",
-    "map-stream": "~0.1.0",
-    "gulp-util": "~2.2.12",
-    "lodash": "~2.4.1"
+    "preprocess": "2.0.x",
+    "map-stream": "0.1.x",
+    "gulp-util": "2.2.x",
+    "lodash": "2.4.x"
   },
   "devDependencies": {
     "mocha": "*",
