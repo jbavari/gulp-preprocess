@@ -25,7 +25,7 @@
 ### Install
 
 ```
-npm install gulp-preprocess --save
+npm install gulp-preprocess --save-dev
 ```
 
 
