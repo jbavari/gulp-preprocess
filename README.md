@@ -43,7 +43,7 @@ gulp.task('html', function() {
 });
 
 gulp.task('scripts', function() {
-  gulp.src(['./app/*.js')
+  gulp.src(['./app/*.js'])
     .pipe(preprocess())
     .pipe(gulp.dest('./dist/'))
 });
