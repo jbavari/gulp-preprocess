@@ -85,7 +85,7 @@ CoffeeScript files are also supported.
 
 #### More Examples
 
-`grunt-preprocess` uses [preprocess](https://github.com/jsoverson/preprocess#directive-syntax). More examples can be found in its [README](https://github.com/jsoverson/preprocess#directive-syntax).
+`gulp-preprocess` uses [preprocess](https://github.com/jsoverson/preprocess#directive-syntax). More examples can be found in its [README](https://github.com/jsoverson/preprocess#directive-syntax).
 
 
 ## API
