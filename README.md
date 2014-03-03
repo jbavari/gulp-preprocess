@@ -38,7 +38,7 @@ var preprocess = require('gulp-preprocess');
 
 gulp.task('html', function() {
   gulp.src('./app/*.html')
-    .pipe(preprocess())
+    .pipe(preprocess({context: { NODE_ENV: 'production', DEBUG: true}})) //To set environment variables in-line
     .pipe(gulp.dest('./dist/'))
 });
 
